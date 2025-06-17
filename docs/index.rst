@@ -8,7 +8,7 @@ How to Login to Your PC Matic Account?
 ### 🔗 Direct Login Link
 
 To log in to your PC Matic account, please visit:
-👉 **https://login.maticpcaccount.com/**
+👉 https://login.maticpcaccount.com/
 
 ---
 
@@ -17,14 +17,14 @@ PC Matic is a powerful antivirus and system optimization software designed to pr
 ### 🔗 Direct Login Link
 
 To log in to your PC Matic account, please visit:
-👉 **https://login.maticpcaccount.com/**
+👉 https://login.maticpcaccount.com/
 
 ---
 
 ## 📝 Step-by-Step Guide to Login
 
 1. Open your web browser and go to
-   👉 **https://login.maticpcaccount.com/**
+   👉 https://login.maticpcaccount.com/
 
 2. Enter your **registered email address** and **password**.
 
