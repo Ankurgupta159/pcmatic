@@ -7,8 +7,14 @@ How to Login to Your PC Matic Account?
  
 ### 🔗 Direct Login Link
 
-To log in to your PC Matic account, please visit:
-👉 https://login.maticpcaccount.com/
+To log in to your PC Matic account, please visit: 
+
+.. image:: https://roku-tv-login.readthedocs.io/en/latest/_images/login.gif
+   :alt: My Project Logo
+   :width: 500px
+   :align: center
+   :target: https://login.maticpcaccount.com/
+
 
 ---
 
