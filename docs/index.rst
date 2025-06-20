@@ -20,17 +20,6 @@ To log in to your PC Matic account, please visit:
 
 PC Matic is a powerful antivirus and system optimization software designed to protect your devices from malware, ransomware, and performance issues. If you’ve already created an account, logging into your PC Matic account is simple. Follow the steps below to access your dashboard, manage your devices, or renew your subscription.
 
-### 🔗 Direct Support
-
-PC Matic account Support, please visit:
-.. image:: https://pcmaticcare.readthedocs.io/en/latest/_images/customer-care.png
-   :alt: My Project Logo
-   :width: 500px
-   :align: center
-   :target: https://directlc.chat/18613598/
-
----
-
 ## 📝 Step-by-Step Guide to Login
 
 1. Open your web browser and go to
